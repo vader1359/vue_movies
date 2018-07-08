@@ -10,15 +10,15 @@ Time spent: **X** hours
 
 The following **required** functionality is complete:
 
-  * [ ] Call API to omdbapi.com to ghet the moviel ist
-  * [ ] Store response to a data variable
-  * [ ] Display the response result (only 15 first)
+  * [x] Call API to tmdbapi.com to ghet the moviel ist
+  * [x] Store response to a data variable
+  * [x] Display the response result (only 15 first)
 
 The following **optional** functionality is complete:
 
-* [ ] Make list sortable by score
-* [ ] Make blue background for each movie title with score higher than 8.2
-* [ ] Set background intensity based on score value
+* [x] Make list sortable by score
+* [x] Make blue background for each movie title with score higher than 8.2
+* [x] Set background intensity based on score value
 
 ## Video Walkthrough
 
