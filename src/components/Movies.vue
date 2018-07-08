@@ -35,11 +35,10 @@ export default {
   methods: {
     sortByScore: (a, b) =>
       parseFloat(a.vote_average) - parseFloat(b.vote_average),
-    isBlue: rate => rate > 8.2,
     setupColor: rate => {
       const BASE_COLOR = Color.rgb(210, 248, 255)
       const darkenMultiplier = parseFloat(
-        Math.round(rate) * (0.8).toFixed(1) / 10
+        rate * (0.8).toFixed(1) / 10
       )
       let rgbString = BASE_COLOR.darken(darkenMultiplier)
         .rgb()

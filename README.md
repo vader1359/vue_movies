@@ -4,7 +4,7 @@
 
 Submitted by: **Ian Tran**
 
-Time spent: **X** hours
+Time spent: **6** hours
 
 ## User Stories
 
